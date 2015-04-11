@@ -1,0 +1,16 @@
+{
+  "name": "map_render",
+  "version": "1.0.0",
+  "description": "Renders a static map image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies" : {
+    "canvas" : "^1.2.1",
+    "polyline" : "^0.0.3",
+    "simplify-js" : "^1.2.2"
+  }
+}
